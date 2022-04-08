@@ -32,8 +32,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalyoga&" alt="rizalyoga" /></p>
 </div>
 
-<br>
-
 <div align="center">
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
