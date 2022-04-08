@@ -30,8 +30,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/rizalyoga">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rizalyoga&show_icons=true&theme=&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalyoga&theme=&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizalyoga&show_icons=true&theme=&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalyoga&theme=&hide_border=true" />
   </a>
 </p>
 
