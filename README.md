@@ -35,14 +35,18 @@
   </a>
 </p>
 
+<!-- MOST Language -->
+<div align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalyoga&show_icons=true&locale=en&layout=compact&hide_border=true " alt="rizalyoga" />
+
+<img height="170" src="/catcode.png" alt="rizalyoga" />
+</div>
+
 <!-- <div align=center >
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizalyoga&show_icons=true&locale=en" alt="rizalyoga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalyoga&" alt="rizalyoga" /></p>
 </div> -->
-
-<!-- MOST Language -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalyoga&show_icons=true&locale=en&layout=compact&hide_border=true " alt="rizalyoga" /></p>
 
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
