@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [#](#) -->
 
-- 🌱 I’m currently learning **React JS and Next JS**
+- 🌱 I’m currently learning **Typescript, React JS and Next JS**
 
 <!-- - 👯 I’m looking to collaborate on [#](#) -->
 
