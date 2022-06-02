@@ -1,4 +1,4 @@
-<h2 align="center"> Hi! I'm Rizal Yoga <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi"></h2>
+<h2 align="center"> Hi! I'm Rizal Yoga <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi"> --></h2>
 <p >A passionate frontend developer from East Java, Indonesia. I am a fresh graduate from University of Muhammadiyah Malang majoring in informatics. I also recently completed immersive bootcamp in alterra academy as front end engineer.
 
 <!-- - 🔭 I’m currently working on [#](#) -->
@@ -21,7 +21,7 @@
 
 <!-- - ⚡ Fun fact **#** -->
 
-<h2 align="center"> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h2>
+<h2 align="center"> Languages and Tools <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> --> </h2>
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2> Connect with me <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> --> </h2>
 
 <a href="https://linkedin.com/in/rizalyoga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://instagram.com/_rizalyoga_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram"></a> <a href="https://github.com/rizalyoga" target="_blank"><img src="https://img.shields.io/badge/Github-%2310B5.svg?&style=flat-square&logo=github&logoColor=white" alt="github"></a>
 
