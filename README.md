@@ -39,7 +39,9 @@
 
 <!-- MOST Language -->
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalyoga&show_icons=true&locale=en&layout=compact&hide_border=true " alt="rizalyoga" />
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalyoga&layout=compact&langs_count=8&hide_border=true"/>
+</a>
 
 <img height="170" src="/catcode.png" alt="rizalyoga" />
 </div>
