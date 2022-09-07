@@ -49,7 +49,10 @@
 <div align="center">
 <h2> Connect with me <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> --> </h2>
 
-<a href="https://linkedin.com/in/rizalyoga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://instagram.com/_rizalyoga_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram"></a> <a href="https://github.com/rizalyoga" target="_blank"><img src="https://img.shields.io/badge/Github-%2310B5.svg?&style=flat-square&logo=github&logoColor=white" alt="github"></a>
+<a href="https://linkedin.com/in/rizalyoga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://github.com/rizalyoga" target="_blank"><img src="https://img.shields.io/badge/Github-%2310B5.svg?&style=flat-square&logo=github&logoColor=white" alt="github"></a>
+<!-- <a href="https://instagram.com/_rizalyoga_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram"></a> -->
+
 
 </div>
 
